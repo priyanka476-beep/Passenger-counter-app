@@ -5,8 +5,8 @@
 <list>
   <ul>
     Increase Button- Adds 1 to the count when a passengers enters.
-  </ol>
-  <ol>
+  </ul>
+  <ul>
     Save Button- Saves the total passenger count for the current train.
   </ul>
 </list>
